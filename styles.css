@@ -1,1 +1,40 @@
+.title {
+    font-size: 64px;
+    color: teal;
+    text-align: center;
+}
 
+.desc {
+    color: teal;
+    text-align: center;
+}
+
+.blurb {
+    font-style: italic;
+    border: 1px solid #6A5ACD;
+    padding: 15px;
+    margin: 24px;
+    background-color: thistle;
+    border-radius: 8px;
+    color: teal;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid royalblue;
+    margin: 1em 0; /* em means all sides */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+p {
+    color: teal;
+}
+
+.footer {
+    font-size: 18px;
+    text-align: center;
+}
