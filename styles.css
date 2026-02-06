@@ -44,6 +44,27 @@ img {
     margin-bottom: 10px;
 }
 
+.box {
+    width: fit-content;
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease; 
+}
+
+.box:hover {
+    transform: scale(1.2); 
+    cursor: pointer;
+}
+
+input[type="text"]:focus {
+  background-color: lightblue;
+  outline: none;
+  border: 1px solid #555; /* Changes border on focus */
+}
+
 .footer {
     font-size: 18px;
     text-align: center;
