@@ -44,6 +44,11 @@ img {
     margin-bottom: 10px;
 }
 
+.flex-box {
+    display: flex;
+    gap: 10px;
+}
+
 .inner-box {
     padding-left: 10px;
     padding-right: 10px;
