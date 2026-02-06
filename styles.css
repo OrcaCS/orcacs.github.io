@@ -104,6 +104,10 @@ textarea[type="text"]:focus {
     text-align: center;
 }
 
+.bold {
+    font-style: bold;
+}
+
 .italic {
     font-style: italic;
 }
