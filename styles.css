@@ -73,7 +73,7 @@ img {
 }
 
 textarea[type="text"] {
-    font-size: 1.5rem;
+    font-size: 3rem;
     background-color: thistle;
     color: teal;
     outline: none;
@@ -81,6 +81,7 @@ textarea[type="text"] {
 }
 
 textarea[type="text"]:focus {
+    font-size: 3rem;
     background-color: thistle;
     color: teal;
     outline: none;
