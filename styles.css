@@ -77,12 +77,14 @@ textarea[type="text"] {
     background-color: thistle;
     color: teal;
     outline: none;
+    border-color: none;
 }
 
 textarea[type="text"]:focus {
     background-color: thistle;
     color: teal;
     outline: none;
+    border-color: none;
 }
 
 .footer {
