@@ -87,7 +87,7 @@ img {
 
 .box.disabled {
     font-size: 26px;
-    font-style: bold;
+    font-weight: 700;
     color: teal;
 }
 
@@ -111,7 +111,7 @@ textarea[type="text"]:focus {
 }
 
 .bold {
-    font-style: bold;
+    font-weight: 700;
 }
 
 .italic {
