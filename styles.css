@@ -60,10 +60,16 @@ img {
     cursor: pointer;
 }
 
+input[type="text"] {
+    background-color: thistle;
+    color: teal;
+    outline: none;
+}
+
 input[type="text"]:focus {
-  background-color: lightblue;
-  outline: none;
-  border: 1px solid #6A5ACD; /* Changes border on focus */
+    background-color: thistle;
+    color: teal;
+    outline: none;
 }
 
 .footer {
