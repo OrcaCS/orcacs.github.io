@@ -46,9 +46,9 @@ img {
 
 .box {
     width: fit-content;
-    background-color: blue;
     color: white;
-    border: 1px solid #6A5ACD; 
+    border: 1px solid #6A5ACD;
+    border-radius: 2px;
     display: flex;
     justify-content: center;
     align-items: center;
