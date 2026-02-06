@@ -74,6 +74,7 @@ img {
 
 textarea[type="text"] {
     font-size: 14px;
+    font-family: Tinos, "Times New roman";
     background-color: thistle;
     color: teal;
     outline: none;
@@ -81,9 +82,6 @@ textarea[type="text"] {
 }
 
 textarea[type="text"]:focus {
-    font-size: 14px;
-    background-color: thistle;
-    color: teal;
     outline: none;
     border-color: none;
 }
