@@ -48,6 +48,7 @@ img {
     width: fit-content;
     background-color: blue;
     color: white;
+    border: 1px solid #6A5ACD; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -62,7 +63,7 @@ img {
 input[type="text"]:focus {
   background-color: lightblue;
   outline: none;
-  border: 1px solid #555; /* Changes border on focus */
+  border: 1px solid #6A5ACD; /* Changes border on focus */
 }
 
 .footer {
