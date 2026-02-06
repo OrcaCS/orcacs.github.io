@@ -34,12 +34,8 @@ hr {
     padding: 0;
 }
 
-a {
-    color: teal
-}
-
 a:hover {
-    color: B3D9D9;
+    color: purple;
 }
 
 p {
