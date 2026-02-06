@@ -46,6 +46,8 @@ img {
 
 .box {
     width: fit-content;
+    padding-left: 10 px;
+    padding-right: 10 px;
     color: white;
     border: 1px solid #6A5ACD;
     border-radius: 2px;
@@ -60,13 +62,13 @@ img {
     cursor: pointer;
 }
 
-input[type="text"] {
+textarea[type="text"] {
     background-color: thistle;
     color: teal;
     outline: none;
 }
 
-input[type="text"]:focus {
+textarea[type="text"]:focus {
     background-color: thistle;
     color: teal;
     outline: none;
