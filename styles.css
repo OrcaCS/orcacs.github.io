@@ -44,11 +44,15 @@ img {
     margin-bottom: 10px;
 }
 
-.box {
-    width: fit-content;
+.inner-box {
     padding-left: 10 px;
     padding-right: 10 px;
-    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: fit-content;
     border: 1px solid #6A5ACD;
     border-radius: 2px;
     display: flex;
