@@ -34,6 +34,10 @@ hr {
     padding: 0;
 }
 
+a {
+    font-size: 16px;
+}
+
 a:hover {
     color: purple;
 }
