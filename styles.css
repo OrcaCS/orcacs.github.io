@@ -38,6 +38,11 @@ p {
     color: teal;
 }
 
+p.italic {
+    color: teal;
+    font-style: italic;
+}
+
 img {
     width: 50%;
     margin-top: 10px;
