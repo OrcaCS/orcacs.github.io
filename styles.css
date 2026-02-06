@@ -60,6 +60,7 @@ img {
 .flex-box {
     display: flex;
     gap: 15px;
+    flex-wrap: wrap;
 }
 
 .inner-box {
