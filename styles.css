@@ -61,6 +61,7 @@ img {
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .inner-box {
